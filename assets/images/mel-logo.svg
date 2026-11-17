@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<defs>
+		<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(38.843,0,0,38.843,19.971,42.024)">
+			<stop offset="0" stop-color="#dba000"/>
+			<stop offset="1" stop-color="#ffe57c"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6,0,0,6,44,20)">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ebebeb"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<path id="Background" class="s0" d="m19.94 11.94h24.12c4.42 0 8 3.58 8 8v24.12c0 4.42-3.58 8-8 8h-24.12c-4.42 0-8-3.58-8-8v-24.12c0-4.42 3.58-8 8-8zm17.72-2.66l17.06 17.06c3.12 3.13 3.12 8.19 0 11.32l-17.06 17.06c-3.13 3.12-8.19 3.12-11.32 0l-17.06-17.06c-3.12-3.13-3.12-8.19 0-11.32l17.06-17.06c3.13-3.12 8.19-3.12 11.32 0z"/>
+	<path id="Camada 1" fill-rule="evenodd" class="s1" d="m44 26c-3.32 0-6-2.68-6-6 0-3.32 2.68-6 6-6 3.32 0 6 2.68 6 6 0 3.32-2.68 6-6 6z"/>
+	<path id="Mel" class="s2" aria-label="Mel"  d="m22.1 49h-2v-10.6h3.2l1.9 7.2 1.9-7.2h3.2v10.6h-2v-8.4l-2.1 8.4h-2l-2.1-8.4zm15.4-2.4l2.1 0.3q-0.4 1.1-1.3 1.7-0.8 0.6-2.1 0.6-2 0-3-1.3-0.7-1.1-0.7-2.7 0-1.9 1-3 1-1.1 2.5-1.1 1.7 0 2.7 1.2 1 1.1 1 3.4h-5.1q0 1 0.5 1.5 0.4 0.5 1.1 0.5 0.5 0 0.8-0.3 0.4-0.3 0.5-0.8zm-2.9-2.1h3.1q-0.1-0.9-0.5-1.3-0.4-0.5-1.1-0.5-0.6 0-1.1 0.5-0.4 0.5-0.4 1.3zm8.5 4.5h-2v-10.6h2z"/>
+</svg>
