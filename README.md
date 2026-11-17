@@ -3,7 +3,7 @@
 
 # Mel game framework
 
-**A Game Framework highly inspired by `LÖVE2D`, `Roblox` and `Lune`. Using Luau as it's scripting language**
+**A Game Framework highly inspired by `LÖVE2D`, `Roblox` and `Lune`. Using Luau as it's scripting language.**
 
 **The sweet side of game development.**
 
